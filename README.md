@@ -1,3 +1,11 @@
+![Particle Event Classifier](cover.svg)
+
+> **Particle event analysis · Classification**
+
+**Area:** Java & Physics · [Browse project files](./)
+
+---
+
 # Java Particle Event Classifier
 Java 17 project that generates synthetic detector events and trains a multiclass softmax-regression model from scratch to classify electrons, muons, pions, kaons and protons.
 
